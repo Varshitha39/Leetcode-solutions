@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Varshitha39/Leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Varshitha39/Leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Varshitha39/Leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Binary Tree
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Varshitha39/Leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Varshitha39/Leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Two Pointers
 |  |
@@ -42,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Varshitha39/Leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Varshitha39/Leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
