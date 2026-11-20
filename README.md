@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/Varshitha39/Leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
+| [0543-diameter-of-binary-tree](https://github.com/Varshitha39/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Varshitha39/Leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/Varshitha39/Leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
+| [0543-diameter-of-binary-tree](https://github.com/Varshitha39/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Varshitha39/Leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Array
 |  |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/Varshitha39/Leetcode-solutions/tree/master/0404-sum-of-left-leaves) |
+| [0543-diameter-of-binary-tree](https://github.com/Varshitha39/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -83,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Varshitha39/Leetcode-solutions/tree/master/0070-climbing-stairs) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Varshitha39/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
