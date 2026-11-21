@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Varshitha39/Leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0143-reorder-list](https://github.com/Varshitha39/Leetcode-solutions/tree/master/0143-reorder-list) |
 ## Math
 |  |
 | ------- |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Varshitha39/Leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0143-reorder-list](https://github.com/Varshitha39/Leetcode-solutions/tree/master/0143-reorder-list) |
 ## String
 |  |
 | ------- |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Varshitha39/Leetcode-solutions/tree/master/0143-reorder-list) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Varshitha39/Leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Sorting
 |  |
@@ -63,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Varshitha39/Leetcode-solutions/tree/master/0143-reorder-list) |
 | [0496-next-greater-element-i](https://github.com/Varshitha39/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
